@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RyIGhsDokECIvTS8KhnXtw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="a32744a6-c778-452f-aaf9-87e221db5d98" CvElementArea="1163, 606, 267, 66" CvType="InputBox" DesignTimeRectangle="1167, 608, 260, 61" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='annual_saving_input_field_*' matching:id='fuzzy' fuzzylevel:id='0.0' tag='INPUT' type='input' class='bubble-element Input a1776691838770x3059' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ad23fc21-cb88-4766-bb83-922eca13c9fd" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a32744a6-c778-452f-aaf9-87e221db5d98" CvTextArea="1164, 567, 149, 27" CvTextArgument="Annual Saving" CvType="Text" DesignTimeRectangle="1167, 560, 255, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Annual Saving' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Annual Saving' /&gt;" Guid="5d5a71ae-f85f-4ff4-b8b6-47a5e3372968" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="331ef3325edd3aaa15e470cf75ce54ba.jpg" xmlns="">0G_iSztE_okmgNXf7LoNOXw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

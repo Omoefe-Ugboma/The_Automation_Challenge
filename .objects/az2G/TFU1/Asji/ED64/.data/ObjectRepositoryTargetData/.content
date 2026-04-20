@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="y-eCX3QcbEyuvmPU4Z9ZRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="6009fbb2-03ef-4a77-9d8d-975f2c794800" CvElementArea="1160, 319, 266, 66" CvType="InputBox" DesignTimeRectangle="1163, 321, 259, 62" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='address_input_field_*' tag='INPUT' type='input' class='bubble-element Input a1776691838770x3059' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="9db706b5-ad7b-40a2-b386-bf5a91bd8a5e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6009fbb2-03ef-4a77-9d8d-975f2c794800" CvTextArea="1160, 279, 90, 22" CvTextArgument="Address" CvType="Text" DesignTimeRectangle="1163, 273, 255, 34" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Address' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Address' /&gt;" Guid="6c4f110d-007b-4780-b65d-2948055253d4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="057f86bdb6b58b448cb255f156be868f.jpg" xmlns="">0xeREf2fUd020S9SmiLZtWQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
