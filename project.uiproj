@@ -1,0 +1,6 @@
+{
+  "Name": "The Authomation Challenge",
+  "ProjectType": "Process",
+  "Description": "must capture data into dynamic field",
+  "MainFile": "Main.xaml"
+}
