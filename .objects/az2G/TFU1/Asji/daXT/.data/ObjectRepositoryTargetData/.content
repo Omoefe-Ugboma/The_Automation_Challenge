@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YMmfb7cB2kGQ3Fr2zlpdVw" Reference="EebILpTi9k-ekPgyZXZwqQ/daXTmFSKJ0qn1V9MRXiLzg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="ad04828a-3382-4b1a-9d7a-654a3c3b1bf0" CvElementArea="1163, 606, 267, 66" CvType="InputBox" DesignTimeRectangle="1167, 608, 260, 61" ElementType="InputBox" ElementVisibilityArgument="Visible" FuzzySelectorArgument="&lt;webctrl id='annual_saving_input_field_*' tag='INPUT' type='input' class='bubble-element Input a1776702925182x3059' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="e78d9d5f-297c-4ef4-93a2-786cb68612f2" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="ad04828a-3382-4b1a-9d7a-654a3c3b1bf0" CvTextArea="1164, 567, 149, 27" CvTextArgument="Annual Saving" CvType="Text" DesignTimeRectangle="1167, 560, 255, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Annual Saving' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Annual Saving' /&gt;" Guid="f88c2629-6a00-4007-a07e-2f8ae2b9eca3" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="331ef3325edd3aaa15e470cf75ce54ba.jpg" xmlns="">0yqvG6SH_kUiWUxCC6CJAkQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Annual Saving(3)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "XTqaNidDc0O7csnuDnukSA",
+  "Reference": "EebILpTi9k-ekPgyZXZwqQ/XTqaNidDc0O7csnuDnukSA",
+  "ParentRef": "EebILpTi9k-ekPgyZXZwqQ/Asji05j5yE2_PMEVeaTTKQ",
+  "Created": "2026-04-20T21:29:17.1158118Z",
+  "Updated": "2026-04-20T21:29:17.1158118Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

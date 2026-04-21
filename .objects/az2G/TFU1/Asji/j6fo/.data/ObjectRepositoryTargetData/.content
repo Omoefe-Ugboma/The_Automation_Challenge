@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="PZ1bPJUbc0eB0pRngjAglg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="wHXEJRATlkSfQGXAYWpKfg" Reference="EebILpTi9k-ekPgyZXZwqQ/j6fovRUOIEqSTlZr3XPkcg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="3ee7c907-1ad4-420d-afa3-cb00d998c5bb" CvElementArea="789, 399, 39, 39" CvType="CheckBox" DesignTimeRectangle="790, 399, 37, 38" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='presentation' tag='BUTTON' /&gt;" Guid="fe28d36b-3a50-4141-a0b2-9a66b0c063b8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="b4126ded1201f5f2add093eb221c318a.jpg" xmlns="">0rlYBDC_p9EyplzMAQX9TXw</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="3ee7c907-1ad4-420d-afa3-cb00d998c5bb" CvElementArea="789, 399, 39, 39" CvType="CheckBox" DesignTimeRectangle="790, 399, 37, 38" ElementType="Button" ElementVisibilityArgument="Visible" FullSelectorArgument="&lt;webctrl aaname='presentation' tag='BUTTON' /&gt;" Guid="fe28d36b-3a50-4141-a0b2-9a66b0c063b8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automation Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="[UiPath.UIAutomationNext.Enums.NWaitForReady.Complete]">
+      <imageRef attrName="InformativeScreenshot" originalValue="b4126ded1201f5f2add093eb221c318a.jpg" xmlns="">0hFbjhIvWa0yL4-m2jWuGgg</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

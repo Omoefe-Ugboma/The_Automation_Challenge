@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Annual Saving(5)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wKJVH9XS7EiQVn-UVkTu2g",
+  "Reference": "EebILpTi9k-ekPgyZXZwqQ/wKJVH9XS7EiQVn-UVkTu2g",
+  "ParentRef": "EebILpTi9k-ekPgyZXZwqQ/Asji05j5yE2_PMEVeaTTKQ",
+  "Created": "2026-04-21T07:33:02.6375663Z",
+  "Updated": "2026-04-21T07:33:02.6375663Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

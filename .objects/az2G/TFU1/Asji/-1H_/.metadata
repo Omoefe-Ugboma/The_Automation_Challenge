@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click reCAPTCHA",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "-1H_Z9XWXUyN142zrkovGA",
+  "Reference": "EebILpTi9k-ekPgyZXZwqQ/-1H_Z9XWXUyN142zrkovGA",
+  "ParentRef": "EebILpTi9k-ekPgyZXZwqQ/Asji05j5yE2_PMEVeaTTKQ",
+  "Created": "2026-04-20T17:15:39.7099702Z",
+  "Updated": "2026-04-20T17:15:39.7099702Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
